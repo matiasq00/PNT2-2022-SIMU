@@ -1,4 +1,4 @@
-# TALLER DE PROGRAMACION 2
+# PROGRAMACION DE NUEVAS TECNOLOGIAS 2
 
 ## Instrucciones de resolución de examen
 
